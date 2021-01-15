@@ -1,0 +1,757 @@
+    1  ipa
+    2  cat /etc/redhat-release 
+    3  ls -lrt
+    4  df -kh
+    5  ls -lrt
+    6  free -g
+    7  free -m
+    8  ls -rlt
+    9  df -kh
+   10  cd /
+   11  ls -lrt
+   12  mkdir ForwarderBot
+   13  sudo mkdir ForwarderBot
+   14  ls -rlt
+   15  cd ForwarderBot/
+   16  ls -rlt
+   17  sudo main.py
+   18  sudo vi main.py
+   19  sudo main.py
+   20  sudo vi main.py
+   21  sudo vi settings.py
+   22  ls -rlt
+   23  ls -lrt
+   24  sudo vi requirements.txt
+   25  sudo yum install telethon
+   26  sudo yum install pip
+   27  sudo rpm -qa 
+   28  sudo yum install python3
+   29  sudo yum install pip3
+   30  pip3 freeze > requirements.txt
+   31  sudo pip3 freeze > requirements.txt
+   32  vi requirements.txt
+   33  sudo vi requirements.txt
+   34  ls -rlt
+   35  sudo chmod +x *
+   36  ls -lrt
+   37  sudo pip3 install requirements.txt 
+   38  sudo pip3 install pyaes
+   39  sudo pip3 install pyasn1
+   40  sudo pip3 install python-dotenv
+   41  sudo pip3 install rsa
+   42  sudo pip3 install Telethon
+   43  sudo vi requirements.txt 
+   44  ls -lrt
+   45  sudo nohup python3.6 main.py &
+   46  tail -f nohup.out 
+   47  sudo ps -ef | grep -i nohup
+   48  python3.6 main.py &
+   49  sudo python main.py &
+   50  sudo python3.6 main.py &
+   51  ps -ef | grep -i python
+   52  kill -9 1757
+   53  sudo kill -9 1757
+   54  sudo kill -9 1759
+   55  ps -ef | grep -i python
+   56  sudo python3.6 main.py &
+   57  +918825732019
+   58  sudo python3.6 main.py &
+   59  918825732019
+   60  ps -ef | grep -i python
+   61  kill -9 1777
+   62  sudo kill -9 1777
+   63  ls -lrt
+   64  rm -rf nohup.out 
+   65  ls -lrt
+   66  sudo rm -rf nohup.out 
+   67  ls -lrt
+   68  sudo rm -rf session.session
+   69  ls -lrt
+   70  ps -ef | grep -i python
+   71  sudo kill -9 1775
+   72  ps -ef | grep -i python
+   73  sudo kill -9 1782
+   74  ps -ef | grep -i python
+   75  sudo yum install screen
+   76  screen -S ForwarderBot
+   77  screen -ls
+   78  screen -r
+   79  ls -rlt
+   80  python3.6 main.py 
+   81  sudo python3.6 main.py 
+   82  sudo su -
+   83  su - arjunstarz
+   84  sudo su -
+   85  screen -ls
+   86  screen -r
+   87  sudo ps -ef | grep -i screen
+   88  sudo kill -9 1835
+   89  sudo kill -9 2171
+   90  screen -ls
+   91  screen -wipe
+   92  screen -ls
+   93  sudo su -
+   94  screen -S ForwarderBot
+   95  screen -r
+   96  ls -lrt
+   97  cd /ForwarderBot/
+   98  python3.6 main.py 
+   99  sudo python3.6 main.py 
+  100  vi settings.py 
+  101  screen -r
+  102  ps -ef | grep -i screen
+  103  sudo kill -9 2264
+  104  ps -ef | grep -i screen
+  105  screen -r
+  106  screen -wipe
+  107  ls -lrt
+  108  cd /ForwarderBot/
+  109  ls -lrt
+  110  vi settings.py 
+  111  ls -lart
+  112  vi settings.py 
+  113  sudo vi settings.py 
+  114  ls-lrt
+  115  ls -lrt
+  116  screen -S ForwarderBot
+  117  ls -lrt
+  118  screen -r
+  119  cd /ForwarderBot/
+  120  ls -lrt
+  121  vi settings.py 
+  122  sudo vi settings.py 
+  123  screen -r
+  124  cd /
+  125  cd ForwarderBot/
+  126  ls -lrt
+  127  cat settings.py 
+  128  screen -r
+  129  sudo python3.6 main.py 
+  130  screen -r
+  131  ps -ef | greep -i screen
+  132  ps -ef | grep -i screen
+  133  ps -ef | grep -i python
+  134  free -g
+  135  screen -S ForwarderBot
+  136  cd /ForwarderBot/
+  137  ls -lrt
+  138  vi settings.py 
+  139  sudo vi settings.py 
+  140  screen -r
+  141  cd /ForwarderBot/
+  142  ls -lrt
+  143  vi main.py 
+  144  sudo vi main.py 
+  145  vi settings.py
+  146  screen -r
+  147  sudo vi settings.py 
+  148  screen -r
+  149  sudo vi settings.py 
+  150  screen -r
+  151  cat /etc/redhat-release 
+  152  ls -lrt
+  153  mkdir /MySQL
+  154  sudo mkdir /MySQL
+  155  sudo cd /MySQL/
+  156  ls -lrt
+  157  pwd
+  158  wget https://dev.mysql.com/downloads/file/?id=484922
+  159  sudo yum install wget
+  160  wget https://dev.mysql.com/downloads/file/?id=484922
+  161  ls -lrt
+  162  rm -rf index.html\?id\=484922 
+  163  ls -lrt
+  164  wget wget https://dev.mysql.com/get/mysql80-community-release-el7-3.noarch.rpm
+  165  ls-lrt
+  166  ls -lrt
+  167  sudo rpm -ivh mysql80-community-release-el7-3.noarch.rpm 
+  168  sudo yum install mysql-server
+  169  sudo systemctl status mysqld
+  170  sudo systemctl start mysqld
+  171  sudo systemctl status mysqld
+  172  sudo grep 'temporary password' /var/log/mysqld.log
+  173  sudo mysql_secure_installation
+  174  sudo mysql -u root -pQuarantine12$
+  175  free -g
+  176  cd /ForwarderBot/
+  177  ls -lrt
+  178  cd ..
+  179  ls -lrt
+  180  cd MySQL/
+  181  ls -lrt
+  182  vi dbconn.py
+  183  sudo vi dbconn.py
+  184  python3.6 dbconn.py 
+  185  sudo python3.6 dbconn.py
+  186  pip install mysql-connector-python
+  187  sudo pip3 install mysql-connector-python
+  188  sudo python3.6 dbconn.py
+  189  ps -ef | grep -i python
+  190  ls -lrt
+  191  vi insert.py
+  192  ls -lrt
+  193  sudo vi dbconn.py 
+  194  sudo python3.6 dbconn.py 
+  195  sudo vi dbconn.py 
+  196  sudo python3.6 dbconn.py 
+  197  sudo mysql -u root -pQuarantine12$
+  198  ls -lrt
+  199  sudo python3.6 dbconn.py 
+  200  ls -lrt
+  201  cd /MySQL/
+  202  sudo python3.6 dbconn.py 
+  203  mysql -u root -pQuarantine12$
+  204  ls -lrt
+  205  vi dbconn.py 
+  206  sudo vi dbconn.py 
+  207  sudo python3.6 dbconn.py s
+  208  mysql -u root -pQuarantine12$
+  209  sudo python3.6 dbconn.py 
+  210  mysql -u root -pQuarantine12$
+  211  ls -lrt
+  212  cat dbconn.py 
+  213  cd ..
+  214  cd /ForwarderBot/
+  215  ls -lrt
+  216  cat main.py 
+  217  cd ...
+  218  cd ..
+  219  ls -lrt
+  220  cd MySQL/
+  221  ls -lr
+  222  cat dbconn.py 
+  223  cd ..
+  224  cd ForwarderBot/
+  225  ls -rlt
+  226  screen -r
+  227  ls -lrt
+  228  vi main.py 
+  229  cd ..
+  230  cd MySQL/
+  231  ls -lrt
+  232  cat dbconn.py 
+  233  vi dbconn.py 
+  234  cd ../ForwarderBot/
+  235  ls -lrt
+  236  sudo vi main.py 
+  237  screen -r 
+  238  sudo vi main.py 
+  239  screen -r 
+  240  sudo vi main.py 
+  241  screen -r 
+  242  sudo vi main.py 
+  243  screen -r 
+  244  sudo vi settings.py 
+  245  screen -r
+  246  sudo vi settings.py 
+  247  sudo vi main.py 
+  248  screen -r 
+  249  sudo vi main.py 
+  250  screen -r 
+  251  sudo vi main.py 
+  252  screen -r 
+  253  sudo vi main.py 
+  254  sudo python3.6 main.py 
+  255  sudo vi main.py 
+  256  sudo python3.6 main.py 
+  257  sudo vi main.py 
+  258  screen -r
+  259  screen -r 
+  260  ls -lrt
+  261  cd ..
+  262  ls -rlt
+  263  sudo mkdir Backup
+  264  ls -lrt
+  265  cp -r ForwarderBot/* Backup/
+  266  sudo cp -r ForwarderBot/ Backup/
+  267  ls -lrt
+  268  cd Backup/ForwarderBot/
+  269  ls -rlt
+  270  cd ..
+  271  ls -lrt
+  272  cd ForwarderBot/
+  273  ls -rlt
+  274  vi main.py 
+  275  cd Backup/ForwarderBot/
+  276  ls -lrt
+  277  sudo vi main.py 
+  278  screen -r 
+  279  sudo vi main.py 
+  280  screen -r 
+  281  sudo vi main.py 
+  282  screen -r 
+  283  sudo vi main.py 
+  284  screen -r 
+  285  sudo vi main.py 
+  286  screen -r 
+  287  mysql -u root -pQuarantine12$
+  288  sudo vi main.py 
+  289  sudo python3.6 main.py 
+  290  sudo vi main.py 
+  291  sudo python3.6 main.py 
+  292  sudo vi main.py 
+  293  sudo python3.6 main.py 
+  294  screen -r
+  295  cd /ForwarderBot/
+  296  ls -lrt
+  297  vi main.py 
+  298  sudo vi main.py 
+  299  screen -r
+  300  mysql -u vson -pQuarantine12$
+  301  mysql -u root -pQuarantine12$
+  302  screen -r
+  303  mysql -u root -pQuaratine12$
+  304  mysql -u root -p
+  305  screen -r
+  306  cd /ForwarderBot/
+  307  ls -lrt
+  308  sudo vi deleteMessage.py
+  309  sudo python3.6 deleteMessage.py 
+  310  sudo vi deleteMessage.py
+  311  top
+  312  free -g
+  313  ls -lrt
+  314  sudo chmod +x deleteMessage.py 
+  315  ls -lrt
+  316  sudo python3.6 deleteMessage.py 
+  317  ls -lrt
+  318  cd ..
+  319  ls -lrt
+  320  sudo mkdir DeleteMsgBot
+  321  cp ForwarderBot/* DeleteMsgBot/
+  322  sudo cp ForwarderBot/* DeleteMsgBot/
+  323  cd DeleteMsgBot/
+  324  ls -lrt
+  325  rm -rf session.session*
+  326  ls -lrt
+  327  sudo rm -rf session.session*
+  328  ls -lrt
+  329  rm -rf main.py 
+  330  sudo rm -rf main.py 
+  331  sudo mv deleteMessage.py main.py
+  332  ls -lrt
+  333  cat main.py 
+  334  screen -S DeleteMsgBot
+  335  clear
+  336  scree -r
+  337  screen -r
+  338  screen -r 1346
+  339  screen -r 8877
+  340  mysql -u root -pQuarantine12$
+  341  ls -lrt
+  342  cd
+  343  ls -lrt
+  344  cd /ForwarderBot/
+  345  ls -lrt
+  346  c ..
+  347  cd ../DeleteMsgBot/
+  348  ls -lrt
+  349  sudo main.py ../MySQL/
+  350  sudo cp main.py ../MySQL/
+  351  cd ../MySQL/
+  352  ls -lrt
+  353  mv main.py db_cleanup.py
+  354  sudo mv main.py db_cleanup.py
+  355  ls -lrt
+  356  vi db_cleanup.py 
+  357  screen -r 8877
+  358  screen -r 1346
+  359  screen -r
+  360  screen -r 1346
+  361  cd /ForwarderBot/
+  362  ls -lrt
+  363  history
+  364  clear
+  365  sudo python3.6 main.py 
+  366  vi settings.py 
+  367  sudo python3.6 main.py 
+  368  vi settings.py 
+  369  sudo python3.6 main.py 
+  370  sudo yum install autopep
+  371  sudo yum install autopep8
+  372  sudo python3.6 main.py 
+  373  sudo vi main.py 
+  374  screen -r
+  375  clear
+  376  sudo python3.6 main.py 
+  377  vi settings.py
+  378  sudo vi settings.py
+  379  sudo python3.6 main.py 
+  380  sudo vi settings.py 
+  381  vi settings.py 
+  382  sudo python3.6 main.py 
+  383  sudo vi main.py 
+  384  sudo python3.6 main.py 
+  385  cd ..
+  386  cd /DeleteMsgBot/
+  387  ls -lrt
+  388  sudo python3.6 main.py 
+  389  ls -lrt
+  390  vi main.py 
+  391  sudo vi main.py 
+  392  sudo python3.6 main.py 
+  393  sudo vi main.py 
+  394  sudo python3.6 main.py 
+  395  sudo vi main.py 
+  396  sudo python3.6 main.py 
+  397  sudo vi main.py 
+  398  sudo python3.6 main.py 
+  399  mysql -u root -pQuarantine12$
+  400  sudo vi main.py 
+  401  sudo python3.6 main.py 
+  402  sudo vi main.py 
+  403  sudo python3.6 main.py 
+  404  sudo vi main.py 
+  405  sudo python3.6 main.py 
+  406  sudo vi main.py 
+  407  sudo python3.6 main.py 
+  408  sudo vi main.py 
+  409  sudo python3.6 main.py 
+  410  sudo vi main.py 
+  411  sudo python3.6 main.py 
+  412  ls -lrt
+  413  sudo vi main.py 
+  414  sudo python3.6 main.py 
+  415  sudo vi main.py 
+  416  sudo python3.6 main.py 
+  417  sudo vi main.py 
+  418  sudo python3.6 main.py 
+  419  sudo vi main.py 
+  420  sudo python3.6 main.py 
+  421  sudo vi main.py 
+  422  sudo python3.6 main.py 
+  423  sudo vi main.py 
+  424  clear
+  425  sudo python3.6 main.py 
+  426  vi main.py 
+  427  sudo vi main.py 
+  428  sudo python3.6 main.py 
+  429  sudo vi main.py 
+  430  cd ..
+  431  ls -lrt
+  432  cd ForwarderBot/
+  433  ls -lrt
+  434  vi main.py 
+  435  sudo vi main.py 
+  436  screen -r 1346
+  437  screen -r
+  438  screen -r 8877
+  439  screen -r 1346
+  440  clear
+  441  mysql -u root -pQuarantine12$
+  442  cd /ForwarderBot/
+  443  ls -lrt
+  444  vi main.py 
+  445  cd ..
+  446  ls -lrt
+  447  cd DeleteMsgBot
+  448  ls -lrt
+  449  vi main.py 
+  450  screen -r 8877
+  451  cat main.py 
+  452  cd ../ForwarderBot/
+  453  ls -lrt
+  454  cp main.py ../main_bkp.py
+  455  sudo cp main.py ../main_bkp.py
+  456  sudo vi main.py 
+  457  screen -r 1346
+  458  mysql -u root -pQuarantine12$
+  459  d
+  460  screen -r 8877
+  461  screen -r
+  462  screen
+  463  screen -r
+  464  screen -r 1346
+  465  d
+  466  screen -r 
+  467  screen -r 8877
+  468  screen -r
+  469  ps -ef | grep -i screen
+  470  kill -9 1346
+  471  kill -9 8877
+  472  ps -ef | grep -i screen
+  473  kill -9 25554
+  474  screen -r
+  475  screen -wipe
+  476  screen -r
+  477  screen -S ForwarderBot
+  478  screen -S DeleteMsgBot
+  479  screen -r
+  480  screen -r 25688
+  481  mysql -u root -pQuarantine12$
+  482  screen -r
+  483  screen -r 25688
+  484  screen -r
+  485  screen -r 25688
+  486  mysql -u root -pQuarantine12$
+  487  screen -r
+  488  mysql -u root -pQuarantine12$
+  489  screen -r
+  490  screen -r 25688
+  491  ls -lrt
+  492  sudo python3.6 edit.py 
+  493  ls -lrt
+  494  cd ..
+  495  sudo cp ForwarderBot/ EditedMessageHandler/
+  496  ls -lrt
+  497  sudo cp ForwarderBot/ EditMsgForwarder/
+  498  sudo cp -r ForwarderBot/ EditMsgForwarder/
+  499  ls -rlt
+  500  cp EditMsgForwarder/
+  501  cd EditMsgForwarder/
+  502  ls -rlt
+  503  rm -rf main.py 
+  504  rm -rf session.session
+  505  rm -rf session.session-journal 
+  506  sudo rm -rf session*
+  507  ls -lrt
+  508  rm -rf __pycache__/
+  509  sudo rm -rf __pycache__/
+  510  ls -rlt
+  511  rm -rf main.py 
+  512  sudo rm -rf main.py 
+  513  ls -rlt
+  514  cd ../ForwarderBot/
+  515  ls -lrt
+  516  sudo rm -rf edit.py 
+  517  ls -lrt
+  518  screen -r
+  519  sudo kill -9 32075
+  520  screen -r
+  521  screen -r 25688
+  522  clear
+  523  ls -lrt
+  524  cd /ForwarderBot/
+  525  cat main.py 
+  526  cat main.py | more
+  527  ls -lrt
+  528  vi main.py 
+  529  cp main.py edit.py
+  530  sudo cp main.py edit.py
+  531  sudo vi edit.py 
+  532  screen -S EditedMessage
+  533  screen -r
+  534  screen -wipe
+  535  screen -r
+  536  screen -r 25688
+  537  screen -r 25726
+  538  screen -S EditMsgHandler
+  539  screen -r
+  540  screen -r 32359
+  541  mysql -u root -pQuarantine12$
+  542  cd /EditMsgForwarder/
+  543  ls -lrt
+  544  sudo vi debug.py 
+  545  screen -r
+  546  screen -r 32359
+  547  screen -r 25726
+  548  screen -r 25688
+  549  screen -r
+  550  screen -r 32359
+  551  cd /ForwarderBot/
+  552  ls -lrt
+  553  cd ..
+  554  cd EditMsgForwarder/
+  555  ls -lrt
+  556  free -g
+  557  cd ../DeleteMsgBot/
+  558  ls -lrt
+  559  cat main.py 
+  560  screen -r
+  561  screen -r 25688
+  562  mysql -u root -pQuarantine12$
+  563  cat main.py 
+  564  ls -lrt5~
+  565  cd ..
+  566  cd EditMsgForwarder/
+  567  vi edit.py 
+  568  screen -r
+  569  mysql -u root -pQuarantine12$
+  570  screen -r
+  571  screen -r 32359
+  572  screen -r 25726
+  573  screen -r 25688
+  574  top
+  575  screen -r
+  576  screen 25688
+  577  screen -r 25688
+  578  mysql -u root -pQuarantine12$
+  579  screen -r
+  580  screen -r 25688
+  581  screen -r
+  582  screen -r 25688
+  583  screen -r
+  584  screen -r 25688
+  585  crontab -l
+  586  crontab -e
+  587  screen -r 25688
+  588  crontab 0e
+  589  crontab -e
+  590  ps -ef | grep -i main.py
+  591  date
+  592  ps -ef | grep -i main.py
+  593  date
+  594  crontab -e
+  595  ps -ef | grep -i main.py
+  596  /usr/bin/python3.6 /ForwarderBot/main.py 
+  597  screen -r
+  598  screen -r 25726
+  599  screen -r
+  600  screen -r 32359
+  601  screen -r
+  602  /usr/bin/python3.6 /ForwarderBot/main.py 
+  603  screen -r 32359
+  604  screen -r 25726
+  605  screen -r 25688
+  606  mysql -u root -pQuarantine12$
+  607  screen -r
+  608  screen -r 25688
+  609  screen -r
+  610  screen -r 32359
+  611  screen -r 25688
+  612  screen -r 25726
+  613  screen -r
+  614  screen -r 25688
+  615  clear
+  616  screen -r
+  617  screen -r 32359
+  618  ls -lrt
+  619  cd
+  620  ls -rlt
+  621  cd /root
+  622  cd /EditMsgForwarder/
+  623  ls -lrt
+  624  cd ..
+  625  ls -lrt
+  626  cp /ForwarderBot/settings.py /EditMsgForwarder/
+  627  sudo cp /ForwarderBot/settings.py /EditMsgForwarder/
+  628  screen -r
+  629  screen -r 32359
+  630  screen -r
+  631  screen -r 25688
+  632  clear
+  633  screen -r
+  634  screen -r 32359
+  635  screen -r 25688
+  636  screen -r
+  637  screen -r 25726
+  638  screen -r
+  639  screen -r 32359
+  640  screen -r 25726
+  641  screen -r 25688
+  642  ls -lrt
+  643  cd /ForwarderBot/
+  644  ls -lrt
+  645  rm -rf __pycache__/
+  646  ls -lrt
+  647  cd /
+  648  ls lrt
+  649  ls -lrt
+  650  yum install zip
+  651  sudo yum install zip
+  652  sudo yum install unzi
+  653  sudo yum install unzip
+  654  ls -lrt
+  655  zip -r Bot.zip ForwarderBot/ EditMsgForwarder/ DeleteMsgBot/
+  656  sudo zip -r Bot.zip ForwarderBot/ EditMsgForwarder/ DeleteMsgBot/
+  657  ls -lrt
+  658  cd ForwarderBot/
+  659  ls -lrt
+  660  rm -rf __pycache__/
+  661  sudo rm -rf __pycache__/
+  662  sudo rm -rf session.session 
+  663  cd ..
+  664  ls -lrt
+  665  cd DeleteMsgBot/
+  666  ls -lrt
+  667  sudo rm -rf session.session 
+  668  sudo rm -rf __pycache__/
+  669  cd ..
+  670  ls -lrt
+  671  cd EditMsgForwarder/
+  672  ls-rlt
+  673  ls -lrt
+  674  sudo rm -rf __pycache__/
+  675  sudo rm -rf session.session 
+  676  ls -rlt
+  677  cd ..
+  678  vi settings.py
+  679  cd ForwarderBot/
+  680  vi settings.py 
+  681  sudo vi settings.py 
+  682  clear
+  683  cd ../EditMsgForwarder/
+  684  vi settings.py 
+  685  sudo vi settings.py 
+  686  cd ../DeleteMsgBot/
+  687  sudo vi settings.py 
+  688  ls -lrt
+  689  history
+  690  history | more
+  691  sudo python3.6 main.py &
+  692  919962206330
+  693  python3.6 main.py &
+  694  ls -lrt
+  695  rm -rf session.session 
+  696  sudo rm -rf session.session 
+  697  sudo rm -rf __pycache__/
+  698  cd ../ForwarderBot/
+  699  ls -lrt
+  700  sudo rm -rf __pycache__/
+  701  python3.6 main.py 
+  702  cd ..
+  703  cd EditMsgForwarder/
+  704  ls -lrt
+  705  cd ..
+  706  cd ForwarderBot/
+  707  ls -rlt
+  708  sudo python3.6 main.py 
+  709  sudo python3.6 main.py &
+  710  ps -ef | grep -i main.py
+  711  kill -9 
+  712  kill -9 21950
+  713  sudo kill -9 21950
+  714  ps -ef | grep -i main.py
+  715  sudo kill -9 21952
+  716  screen -r
+  717  ps -ef | grep -i main.py
+  718  sudo kill -9 27944 
+  719  sudo kill -9 27946
+  720  sudo kill -9 27966
+  721  sudo kill -9 27968
+  722  ps -ef | grep -i main.py
+  723  sudo kill -9 28104
+  724  sudo kill -9 28106
+  725  ps -ef | grep -i main.py
+  726  cd
+  727  screen -r 
+  728  screen -r 25688
+  729  history | grep -i mysl
+  730  history | grep -i mysql
+  731  sudo mysql -u root -pQuarantine12$
+  732  ls -lrt
+  733  screen -r
+  734  screen -r 25688
+  735  screen -r 32359
+  736  screen -r 25726
+  737  ls -lrt
+  738  screen -r
+  739  vmstat 2 3
+  740  top
+  741  cat /proc/meminfo 
+  742  vmstat -s
+  743  cd
+  744  cd /
+  745  ls -rlt
+  746  cd ForwarderBot/
+  747  ls -lrt
+  748  cd ..
+  749  ls -lrt
+  750  zip -r Bot_Final.zip DeleteMsgBot/ EditMsgForwarder/ ForwarderBot/
+  751  sudo su - root
+  752  git status
+  753  sudo su - root
+  754  history | grep -i Quara
+  755  sudo su - root
+  756  history
+  757  history > /tmp/history.txt
